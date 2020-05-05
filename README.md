@@ -42,9 +42,23 @@ Tecnologias ultilizadas no projeto:
 
 Esse projeto tem como objetivo o aprendizado da framework flutter com intuito de gera uma loja virtual.
 
-## :iphone: Images Projeto
+## :iphone: Imagens do Projeto
 
+<h1>
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/1.jpeg" height="400" />  
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/2.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/3.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/4.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/5.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/6.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/7.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/8.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/9.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/10.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/loja/master/app_images/11.jpeg" height="400" />
+    
 
+<h1>
 
 ## 🤔 Como contribuir
 
@@ -58,4 +72,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 
